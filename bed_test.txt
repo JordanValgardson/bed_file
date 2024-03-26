@@ -1,5 +1,4 @@
 ##Example 4 from Custom Annotation Tracks User's Guide
-browser position chr22:10000000-10020000
 browser hide all
 track name=clones description="Clones" visibility=2 color=0,128,0 useScore=1
 chr1	101518839	101518939	pt1_chr1_CAST_EiJ_102951790	28	+	101518839	101518939	128,128,128
